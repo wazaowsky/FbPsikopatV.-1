@@ -30,7 +30,7 @@ def main():
  
         if pwd == password:
  
-            print "\033[1;32mMantul masuk juga lu ngentod..",
+           
  
             sys.exit()
  
