@@ -1,0 +1,2 @@
+# FbPsikopatV.-1
+INGET INI PREMIUM
